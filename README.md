@@ -1,10 +1,5 @@
 # 🌱 Farming Advisory – AI-Based Smart Agriculture Assistant
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/farming-advisory?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/farming-advisory?style=social)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Tech](https://img.shields.io/badge/MERN-Stack-blue)
-
 🚜 **Farming Advisory** is a multilingual, AI-powered web/mobile application designed to help **small and marginal farmers** make informed decisions using **real-time weather, pest detection, AI chatbot, and market price insights**.
 
 ---
