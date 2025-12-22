@@ -5,58 +5,14 @@
 ---
 
 ## 📌 Table of Contents
-- [Problem Statement](#-problem-statement)
-- [Why This Project Matters](#-why-this-project-matters)
-- [Expected Outcomes](#-expected-outcomes)
 - [Features](#-features)
 - [Technology Stack](#-technology-stack)
 - [System Architecture](#-system-architecture)
 - [Modules Explanation](#-modules-explanation)
 - [Screenshots](#-screenshots)
 - [Installation & Setup](#-installation--setup)
-- [API Endpoints](#-api-endpoints)
-- [Database Design](#-database-design)
-- [Future Enhancements](#-future-enhancements)
-- [Stakeholders](#-stakeholders)
 - [Contributors](#-contributors)
 - [License](#-license)
-
----
-
-## ❗ Problem Statement
-
-> A majority of Indian farmers rely on guesswork or local shopkeepers for crop and fertilizer decisions.
-
-This results in:
-- ❌ Low crop yield  
-- ❌ High input costs  
-- ❌ Overuse of chemicals  
-- ❌ Environmental degradation  
-- ❌ Language & digital literacy barriers  
-
----
-
-## 🌍 Why This Project Matters
-
-📊 **86% of Indian farmers are small or marginal** (NABARD, 2022)  
-📈 ICT-based advisories can improve yield by **20–30%**
-
-✔ Personalized guidance  
-✔ Native language support  
-✔ Scientific & data-driven decisions  
-✔ Sustainable agriculture  
-
----
-
-## 🎯 Expected Outcomes
-
-- 📱 Multilingual AI-based advisory app
-- 🌦️ Weather-based alerts & predictions
-- 🧪 fertilizer recommendations
-- 🐛 Pest & disease detection using images
-- 💬 Chatbot with voice support
-- 💹 Market price tracking
-- 📊 Feedback-driven improvement
 
 ---
 
@@ -190,15 +146,7 @@ MAX_IMAGE_MB=8
 npm start
 ```
 
-👥 Stakeholders
-
-👨‍🌾 Small & Marginal Farmers
-🧑‍💼 Agricultural Officers
-🏛️ Government Departments
-🤝 NGOs & Cooperatives
-🚀 Agri-tech Startups
-
-👨‍💻 Contributors
+👨‍💻 Contributor
 
 Kirubakaran – Full Stack Developer
 Open for contributions ❤️
@@ -207,7 +155,7 @@ Open for contributions ❤️
 
 This project is licensed under the MIT License.
 
-⭐ Support
+<p align="center">⭐ Support</p>
+<p align="center">If you like this project, give it a ⭐ on GitHub!</p>
+<p align="center"> Built with ❤️ by <b>Kirubakaran</b> </p> 
 
-If you like this project, please star ⭐ the repository
-It motivates continuous improvement 🚀🌱
